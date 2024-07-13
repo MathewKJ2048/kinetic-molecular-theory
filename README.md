@@ -2,7 +2,7 @@
 
 A visualization of an adiabatic system modelled by the kinetic molecular theory of gases.
 
-Try it online:
+Try it online: [https://mathewkj2048.github.io/kinetic-molecular-theory](https://mathewkj2048.github.io/kinetic-molecular-theory/)
 
 
 ## Features:
