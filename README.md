@@ -4,6 +4,8 @@ A visualization of an adiabatic system modelled by the kinetic molecular theory 
 
 Try it online: [https://mathewkj2048.github.io/kinetic-molecular-theory](https://mathewkj2048.github.io/kinetic-molecular-theory/)
 
+[!alt text](./image.png)
+
 
 ## Features:
 
